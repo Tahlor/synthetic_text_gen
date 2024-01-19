@@ -1,3 +1,8 @@
+#### UPDATES
+
+The old synthetic text gen is a complete disaster. Try to use SyntheticTextBase going forward, and use the font_sampler in textgen to preprocess the fonts.
+
+
 # Synthetic Text Generation
 
 Brian Davis (2022)

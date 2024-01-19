@@ -1,0 +1,2 @@
+# if using cv2 to generate fonts, you need to install freetype in cv2
+opencv-contrib-python
